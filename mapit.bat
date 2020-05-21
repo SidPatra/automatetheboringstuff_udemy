@@ -1,0 +1,1 @@
+@pyw C:\Users\Siddharth_Patra\Documents\GitHub\automatetheboringstuff_udemy\mapit.py %*
